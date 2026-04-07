@@ -19,6 +19,7 @@ target/
 *.ipr
 src/test/
 logs/
+docs/
 
 ### NetBeans ###
 /nbproject/private/
